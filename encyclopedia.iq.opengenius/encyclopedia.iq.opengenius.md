@@ -52,5 +52,3 @@ And the third layer is OR, which means it behaves just like
 
 And so THAT'S how that neural network works, through and through, and we see the benefit of fully-connected layers: They perform logic. That's why they're useful.
 
-### Categorize this.
-https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/
